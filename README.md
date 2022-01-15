@@ -36,8 +36,6 @@ python tools/evaluate.py
 
 ## Main Results
 
-### 3D Object detection on nuScenes
-
 <img src="https://github.com/anonymous202201/fast_transferable_blackbox_attack/blob/main/docs/table1.PNG" width="100%" height="100%">
 <img src="https://github.com/anonymous202201/fast_transferable_blackbox_attack/blob/main/docs/table2.PNG" width="100%" height="100%">
 <img src="https://github.com/anonymous202201/fast_transferable_blackbox_attack/blob/main/docs/table3.PNG" width="50%" height="50%">
