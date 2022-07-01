@@ -1,7 +1,5 @@
 # Towards Fast and Transferable Black-box Adversarial Attacks
 
-## Anonymous submission
-
 <img src="https://github.com/anonymous202201/fast_transferable_blackbox_attack/blob/main/docs/figure2.PNG" width="100%" height="100%">
 
 ## Installation
